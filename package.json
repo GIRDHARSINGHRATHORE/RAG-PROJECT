@@ -6,7 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
+    "type": "module",
     "url": "git+https://github.com/sandy-0911/AI-Powered-Query-Processing-and-Retrieval-System.git"
   },
   "author": "",
